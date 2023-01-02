@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+h3 {
+    text-align: center;
+}
+
+.card {
+    background-color: white;
+    padding: 5px;
+    width: 30%;
+    height: 30%;
+    border: 1px solid gray;
+    display: inline-block;
+    margin: 5px;
+}
+
+.alignCenter {
+    justify-content: center;
+}
+
+.card-inner {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+}
+
+.centerText {
+    text-align: center;
+}
